@@ -288,7 +288,7 @@ button {
 .login_bt li a {
     float: left;
     font-size: 18px;
-    color: #d98473;
+    color: #1E82D8;
     text-transform: uppercase;
     padding: 0px 0px 0px 50px;
 }
@@ -326,7 +326,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #e38773;
+    color: #1E82D8;
     font-weight: bold;
 }
 
@@ -353,7 +353,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d48272;
+    background-color: #1E82D8;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -374,7 +374,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d48272;
+    background-color: #1E82D8;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -499,10 +499,10 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #d78373;
+    color: #1E82D8;
     text-align: center;
     border-radius: 5px;
-    border: 1px solid #d78373;
+    border: 1px solid #1E82D8;
     text-transform: uppercase;
     padding: 8px;
 }
@@ -616,10 +616,10 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #d78373;
+    color: #1E82D8;
     text-transform: uppercase;
     border-radius: 5px;
-    border: 1px solid #fc947f;
+    border: 1px solid #1E82D8;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
@@ -722,7 +722,7 @@ button {
     text-align: center;
     text-transform: uppercase;
     padding: 20px 0px;
-    background-color: red;
+    background-color: blue
     position: absolute;
     top: -10px;
     left: 5px;
@@ -795,7 +795,7 @@ button {
 }
 
 input.mail_text::placeholder {
-    color: #2e2e2d;
+    color: #a1a1a1;
 }
 
 .massage-bt {
@@ -813,7 +813,7 @@ input.mail_text::placeholder {
 }
 
 textarea#comment.massage-bt::placeholder {
-    color: #2e2e2d;
+    color: #a1a1a1;
 }
 
 .send_bt {
@@ -827,7 +827,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 16px;
     color: #fefefd;
-    background-color: #d07d6b;
+    background-color: #1E82D8;
     padding: 10px;
     text-transform: uppercase;
     margin-top: 20px;
@@ -904,7 +904,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .location_text li a:hover {
-    color: #d07d6b;
+    color: #1E82D8;
 }
 
 .padding_left_10 {
@@ -938,7 +938,7 @@ textarea#comment.massage-bt::placeholder {
     float: left;
     padding: 5px 10px;
     background-color: #fff;
-    color: #f75b59;
+    color: #1E82D8;
     border-radius: 100%;
     font-size: 19px;
     margin-right: 5px;
@@ -968,7 +968,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 textarea#comment.update_mail::placeholder {
-    color: #3b3b3b;
+    color: #a5a5a5;
 }
 
 .form-group {
@@ -991,14 +991,14 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 13px 0px 14px 0px;
-    background-color: #d07d6b;
+    background-color: #1E82D8;
     text-transform: uppercase;
     text-align: center;
 }
 
 .subscribe_bt a:hover {
     color: #363636;
-    background-color: #d07d6b;
+    background-color: #1E82D8;
 }
 
 
@@ -1010,7 +1010,7 @@ textarea#comment.update_mail::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #d07d6b;
+    background-color: #1E82D8;
     height: auto;
 }
 
