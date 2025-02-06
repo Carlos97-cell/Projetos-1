@@ -722,7 +722,7 @@ button {
     text-align: center;
     text-transform: uppercase;
     padding: 20px 0px;
-    background-color: blue
+    background-color: blue;
     position: absolute;
     top: -10px;
     left: 5px;
@@ -1038,3 +1038,4 @@ textarea#comment.update_mail::placeholder {
 .margin_top90 {
     margin-top: 90px;
 }
+
