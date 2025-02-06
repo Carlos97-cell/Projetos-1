@@ -140,11 +140,15 @@ a,
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
-
+#logoimagem1{
+    max-width: 50%;
+    height: auto;
+ }
 img {
     max-width: 100%;
     height: auto;
 }
+
 
  :focus {
     outline: 0;
@@ -316,8 +320,8 @@ button {
 }
 
 .banner_taital {
-    width: 100%;
-    font-size: 90px;
+    width: 50%;
+    font-size: 45px;
     color: #252525;
     font-weight: 800;
 }
